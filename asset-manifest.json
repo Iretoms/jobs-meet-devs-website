@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.5be467a1.css",
-    "main.js": "/static/js/main.a26e916f.js",
-    "static/media/manTyping.mp4": "/static/media/manTyping.95e18f2dcd7473cfb67e.mp4",
-    "static/media/groupPic.png": "/static/media/groupPic.f34d738c28b624b792d8.png",
-    "static/media/fullStack.png": "/static/media/fullStack.984906542f0e183671f6.png",
-    "static/media/WhyteInktrap-Medium.ttf": "/static/media/WhyteInktrap-Medium.f23655ec1c93691ae10c.ttf",
-    "static/media/GTWalsheimPro-Regular.ttf": "/static/media/GTWalsheimPro-Regular.1fd3cd7ade0f79b2152a.ttf",
-    "static/media/webDevs.png": "/static/media/webDevs.aa7e1a6918244f06ef18.png",
-    "static/media/testimony.png": "/static/media/testimony.38433bf3f94940d1901d.png",
-    "static/media/JMD.png": "/static/media/JMD.eb8907c372c2f9b38cd4.png",
-    "static/media/qonveyLogo.png": "/static/media/qonveyLogo.f6d75db63a7c7d3b7593.png",
-    "static/media/hire.svg": "/static/media/hire.5cdc3ad67da5d77659854be56c7823d2.svg",
-    "static/media/interview.svg": "/static/media/interview.9837ed639343e28643d9d114c98b7048.svg",
-    "static/media/choose.svg": "/static/media/choose.6130b208e0589abd711b913cfbd514d4.svg",
-    "index.html": "/index.html",
-    "main.5be467a1.css.map": "/static/css/main.5be467a1.css.map",
-    "main.a26e916f.js.map": "/static/js/main.a26e916f.js.map"
+    "main.css": "/%7Bjobs-meet-devs%7D/static/css/main.2a1d91ec.css",
+    "main.js": "/%7Bjobs-meet-devs%7D/static/js/main.c1c9b025.js",
+    "static/media/manTyping.mp4": "/%7Bjobs-meet-devs%7D/static/media/manTyping.95e18f2dcd7473cfb67e.mp4",
+    "static/media/groupPic.png": "/%7Bjobs-meet-devs%7D/static/media/groupPic.f34d738c28b624b792d8.png",
+    "static/media/fullStack.png": "/%7Bjobs-meet-devs%7D/static/media/fullStack.984906542f0e183671f6.png",
+    "static/media/WhyteInktrap-Medium.ttf": "/%7Bjobs-meet-devs%7D/static/media/WhyteInktrap-Medium.f23655ec1c93691ae10c.ttf",
+    "static/media/GTWalsheimPro-Regular.ttf": "/%7Bjobs-meet-devs%7D/static/media/GTWalsheimPro-Regular.1fd3cd7ade0f79b2152a.ttf",
+    "static/media/webDevs.png": "/%7Bjobs-meet-devs%7D/static/media/webDevs.aa7e1a6918244f06ef18.png",
+    "static/media/testimony.png": "/%7Bjobs-meet-devs%7D/static/media/testimony.38433bf3f94940d1901d.png",
+    "static/media/JMD.png": "/%7Bjobs-meet-devs%7D/static/media/JMD.eb8907c372c2f9b38cd4.png",
+    "static/media/qonveyLogo.png": "/%7Bjobs-meet-devs%7D/static/media/qonveyLogo.f6d75db63a7c7d3b7593.png",
+    "static/media/hire.svg": "/%7Bjobs-meet-devs%7D/static/media/hire.5cdc3ad67da5d77659854be56c7823d2.svg",
+    "static/media/interview.svg": "/%7Bjobs-meet-devs%7D/static/media/interview.9837ed639343e28643d9d114c98b7048.svg",
+    "static/media/choose.svg": "/%7Bjobs-meet-devs%7D/static/media/choose.6130b208e0589abd711b913cfbd514d4.svg",
+    "index.html": "/%7Bjobs-meet-devs%7D/index.html",
+    "main.2a1d91ec.css.map": "/%7Bjobs-meet-devs%7D/static/css/main.2a1d91ec.css.map",
+    "main.c1c9b025.js.map": "/%7Bjobs-meet-devs%7D/static/js/main.c1c9b025.js.map"
   },
   "entrypoints": [
-    "static/css/main.5be467a1.css",
-    "static/js/main.a26e916f.js"
+    "static/css/main.2a1d91ec.css",
+    "static/js/main.c1c9b025.js"
   ]
 }
