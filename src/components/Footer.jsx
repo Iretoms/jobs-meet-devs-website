@@ -9,6 +9,7 @@ import { motion } from "framer-motion";
 import { textAnimate } from "../animation";
 
 const Footer = () => {
+  const currentYear = new Date().getFullYear();
   return (
     <StyledFooter>
       <Container>
@@ -69,7 +70,9 @@ const Footer = () => {
           viewport={{ once: true, amount: 0.5 }}
           transition={{ staggerChildren: 0.3 }}
         >
-          <motion.p variants={textAnimate}>Copyright &copy; 2022 Jobs Meet Devs</motion.p>
+          <motion.p variants={textAnimate}>
+            Copyright &copy; {currentYear} Jobs Meet Devs
+          </motion.p>
         </CopyRight>
       </Container>
     </StyledFooter>
@@ -135,14 +138,14 @@ const Links = styled.article`
 `;
 
 const Line = styled(motion.article)`
-width: 80%;
-height: 1px;
-background-color: #fff;
-margin: 2rem auto;
-`
+  width: 80%;
+  height: 1px;
+  background-color: #fff;
+  margin: 2rem auto;
+`;
 
 const CopyRight = styled(motion.article)`
-text-align: center;
-`
+  text-align: center;
+`;
 
 export default Footer;
